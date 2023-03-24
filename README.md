@@ -1,2 +1,4 @@
 # curso-practico-de-javascript-desde-cero-
-este repositorio es un ejemplo de cuando creamos el repositorio con su gitignore y rama y con readme desde le repositorio para ahorrarnos tener que empezar desde cero agregar al repositorio todo estos archivos
+este repositorio lo relizamos desde git hub luego lo clonamos y aprendimos a usar comandos de git para hacerles cambios desde local  y mandarlos al repositorio.
+
+:);
